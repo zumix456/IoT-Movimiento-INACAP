@@ -1,0 +1,5 @@
+Proyecto: IoT Movimiento - Unidad 2
+Repositorio GitHub: PEGAR_AQUI_EL_ENLACE_REAL
+
+Subir este TXT a AAI después de publicar el proyecto en GitHub.
+No enviar una URL de ejemplo como si fuera la real.
